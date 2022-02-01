@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 37635b1e33480544093c7539a78587cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myPointPrefab: {fileID: 7609454024951010493, guid: cedabef7d42ad2d44adbe1494250586d, type: 3}
+  - mySegmentPrefab: {fileID: 9018675470405971018, guid: 38856b2bc8cd9d443a55216ee636b258, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
